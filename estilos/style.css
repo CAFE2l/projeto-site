@@ -9,6 +9,32 @@ body{
 
 }
 
+h1{
+    font-size: 2em;
+    color: rgb(58, 0, 112);
+}
+
+h2{
+    font-size: 1.5em;
+    color: rgb(112, 0, 179);
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(58, 0, 112);
+}
+
+a:hover{
+    text-decoration: underline;
+    color: rgb(112, 0, 179);
+}
+
+img.lado {
+    float: right;
+
+}
+
 main {
     background-color: white;
     width: 500px;
